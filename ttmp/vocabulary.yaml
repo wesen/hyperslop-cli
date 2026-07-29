@@ -15,6 +15,8 @@ topics:
       description: 'topic: agent-cli'
     - slug: extraction
       description: 'topic: extraction'
+    - slug: testing
+      description: Test architecture, verification strategy, and regression design
 docTypes:
     - slug: design-doc
       description: 'doc type: design-doc'
